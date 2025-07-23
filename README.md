@@ -1,4 +1,4 @@
-# 📝 Task Manager CLI App
+# 📝 Task Manager 
 
 A simple command-line task manager built in Python. Add, list, mark complete, and delete your to-do tasks — all stored locally in `tasks.json`.
 
